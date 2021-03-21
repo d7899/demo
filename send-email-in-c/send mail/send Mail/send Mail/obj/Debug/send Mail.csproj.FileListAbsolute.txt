@@ -1,0 +1,19 @@
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\bin\Debug\send Mail.exe.config
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\bin\Debug\send Mail.exe
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\bin\Debug\send Mail.pdb
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\obj\Debug\send Mail.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\obj\Debug\send_Mail.Form1.resources
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\obj\Debug\send_Mail.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\obj\Debug\send Mail.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\obj\Debug\send Mail.exe
+C:\Users\Faslam maX\Documents\send mail\send Mail\send Mail\obj\Debug\send Mail.pdb
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\bin\Debug\send Mail.exe.config
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\bin\Debug\send Mail.exe
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\bin\Debug\send Mail.pdb
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\obj\Debug\send Mail.csprojAssemblyReference.cache
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\obj\Debug\send_Mail.Form1.resources
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\obj\Debug\send_Mail.Properties.Resources.resources
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\obj\Debug\send Mail.csproj.GenerateResource.cache
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\obj\Debug\send Mail.csproj.CoreCompileInputs.cache
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\obj\Debug\send Mail.exe
+G:\BCA3 PROJECT-ASP.NET\send-email-in-c--resource-pack-by-iweb-makers\send mail\send Mail\send Mail\obj\Debug\send Mail.pdb
